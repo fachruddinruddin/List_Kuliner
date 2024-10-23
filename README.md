@@ -1,6 +1,4 @@
-# latihan_3
-
-A new Flutter project.
+# list kuliner
 
 ## Getting Started
 
